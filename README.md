@@ -12,6 +12,7 @@ Ce projet analyse les perturbations majeures du trafic aérien américain durant
 * **Performance Compagnies** : Analyse comparative des délais via des **Stacked Bar Charts**.
 * **Analyse des causes** : Répartition des retards (Météo, Sécurité, COVID-19, Retard transporteur).
 
+Vous pouvez teclecharger le fichier et les csv et visualiser sur tableau:
 
 ##  Compétences démontrées
 * Storytelling avec les données.
